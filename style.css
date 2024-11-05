@@ -94,6 +94,11 @@
 
 }
 
+.separation-container {
+    column-count: 2;
+
+}
+
 
 
 
@@ -112,10 +117,20 @@
     font-size: 30px;
 }
 
+table,
+th,
+td {
+    border: 1px solid rgb(104, 104, 104);
+    margin: 50px;
+
+}
 
 .footer {
     background-color: lightgray;
     padding: 20px;
     text-align: center;
+    font-size: small;
+    color: black;
+    font-family: verdana;
 
 }
