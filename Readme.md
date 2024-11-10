@@ -1,34 +1,33 @@
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-<!-- ####### Heading 7 (Tidak ada heading 7) -->
+# Mari Belajar Markdown from Scratch
+##### Oleh Anonymous van Sukabumi
+##### 10 November 2024
 
-Heading 1
-=
-Heading 2
--
+>Teks markdown ini masih dalam pengembangan dan akan diperbarui secara berkala*
+>>note * : Maksudnya berkala apabila penulis nya lagi niat** update
+>>> note ** : Niat bisa datang dan hilang secara tiba-tiba
+>>>> Quote ini sudah beranak pinak sampai 4 tumpuk.
 
-<!-- Tidak ada heading laternatif lain -->
+Berikut adalah hal-hal dasar yang perlu diketahui dalam membuat sebuah teks berformat *markdown* (.md)
 
 
-Aku adalah manusia
+#### List Pelajaran
+- Heading
+- Heading Alternate
+- Paragraph: More paragraph using 1 blank line
+- Paragraph: More text line using 2 blank space
+- Paragraph: Line break use \ or 2 whitespace
+- Paragraph: Do not add 'tab' on new paragraph
+- Paragraph: Maintain text always left-aligned
+- Emphasis: Bold use ** Text **
+- Emphasis: Strong use __ Text __
+- Emphasis: Italic use  * Text *
+- Emphasis: Bold Italic use *** Text ***
+- Quote: Single Blockquotes use >
+- Quote: Multiple Blockquotes use >>>
 
-# Aku adalah manusia
-Aku seorang kapten.  
-Mempunyai pedang panjang.
-Kalau berjalan hap hap hap.
-
-a
-a
-a  
-aa    
-aaaa   
-   a
-   a
 
 
+
+- 
 
 
