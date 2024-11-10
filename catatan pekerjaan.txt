@@ -1,0 +1,7 @@
+1. Galeri nya yang rapi, yang enak desain nya
+2. Gambar Yoimiya nya supaya bisa responsif dan nggak weird
+3. Tabel nya yang premium supaya terlilhat enak
+4. Kuasai padding margin dan tata letak
+5. Kuasai width height image (img)
+6. Kuasai flex, max-width, dll
+7. Aplikasikan web Blue Archive ke Web Bisnis
