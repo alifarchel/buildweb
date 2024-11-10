@@ -21,7 +21,7 @@ Berikut adalah hal-hal dasar yang perlu diketahui dalam membuat sebuah teks berf
     1. Do not add 'tab' on new paragraph
     1. Maintain text always left-aligned
     
-4. ### Emphasis: 
+4. ### Emphasis 
     1. Bold use ** Text **
 
         > Example: **Ini teks pakai bintang-bintang**
@@ -30,11 +30,11 @@ Berikut adalah hal-hal dasar yang perlu diketahui dalam membuat sebuah teks berf
     1. Italic use  * Text *
     1. Bold Italic use *** Text ***
 
-5.  ### Quote: 
+5.  ### Quote 
     1. Single Blockquotes use >
     1. Nested Blockquotes use >>>
 
-6. ### Lists:
+6. ### Lists
     + Ordered Lists should startwith number one
     + Numbering should written with dot (.)
     + Un-ordered Lists should use (-), (*), (=)
@@ -42,7 +42,7 @@ Berikut adalah hal-hal dasar yang perlu diketahui dalam membuat sebuah teks berf
         + *This is example of indentation*
             + *This is example 1*
             * *This is example 2*
-7. ### Elements inside Lists:
+7. ### Elements inside Lists
     1. Add paragraph
 
         Use 4 whitespace and 1 blank line to create this caption of certiain list.\
